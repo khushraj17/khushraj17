@@ -8,7 +8,32 @@
 
 ---
 
-## 📊 My Github Stats
+### 🛠️ Languages and Tools
+
+<p align="left">
+
+  <!-- 🧩 Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+  </a>
+  <br/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
+  </a>
+
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+  </a>
+
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+---
+
+### 📊 My Github Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khushraj17&theme=tokyonight" height="200" />
