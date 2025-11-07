@@ -3,11 +3,27 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="5000">
-<br><br>
+<img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px> 
 
 ---
 
+<div align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
+
+---
+
+### 📬 Connect with Me  
+
+<p align="left">
+  <a href="mailto:khushrajrane@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/khushraj-rane-772abb30b/">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+
+---
 ### 🛠️ Languages and Tools
 
 <p align="left">
