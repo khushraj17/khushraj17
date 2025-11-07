@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khushraj+Rane;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Khushraj%20Rane&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=ML%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
-
-<img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px> 
+<img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px> I'm Khushraj Rane, a B.Tech student specializing in Artificial Intelligence & Machine Learning. I’m passionate about building intelligent solutions, exploring ML concepts, and developing clean, interactive web experiences.
 
 ---
 
