@@ -12,11 +12,11 @@
 ### 📫 Connect with Me
 <p align="left">
 
-  <a href="mailto:khushrajrane@gmail.com" target="_blank" >
+  <a href="mailto:khushrajrane@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23FF6A88.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/khushraj-rane-772abb30b/" target="_blank" >
+  <a href="https://www.linkedin.com/in/khushraj-rane-772abb30b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
