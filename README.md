@@ -56,7 +56,6 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khushraj17&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushraj17&layout=compact&theme=tokyonight" height="200" />
 </p>
 
 <!--
