@@ -69,9 +69,11 @@
 ![GitHub Snake Light](https://github.com/khushraj17/khushraj17/blob/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/khushraj17/khushraj17/blob/output/snake.svg#gh-dark-mode-only)
 
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=650&size=22&duration=4000&pause=1000&color=00CED1&center=true&vCenter=true&width=1000&lines=Everyone+wants+to+win,+until+they+realise+how+many+losses+it+takes!;🔥+Work+Hard,+Dream+Big!;💪+Keep+Pushing+Forward!;💻+Code,+Sleep,+Repeat!" alt="Motivational Typing Quote">
 </p>
+
+---
 
