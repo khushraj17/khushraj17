@@ -34,7 +34,7 @@
 
   <!-- 🧩 Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   </a>
   <br/>
 
