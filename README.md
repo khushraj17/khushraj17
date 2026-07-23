@@ -60,7 +60,6 @@
 
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khushraj17&theme=onedark)
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khushraj17&theme=react-dark)
 
 
