@@ -49,6 +49,59 @@
 
 ---
 
+
+<h2 align="center">🧠 Machine Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supervised%20Learning-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-7B1FA2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FF9800?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-43A047?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-E53935?style=for-the-badge">
+</p>
+---
+<!--
+<h2 align="center">💻 Tech Stack</h2>
+<!--
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<!--
+<h3 align="center">Machine Learning & Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
+<!--
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+<!--<h3 align="center">Developer Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+<!--
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+</p> -->
+
+
 ### 📊 My Github Stats
 
 
