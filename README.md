@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="./assets/engineer_ascii_animated.gif" width="100%" />
+  <img src="engineer_ascii_animated.gif" width="50%" />
 </div>
 
 
