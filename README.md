@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="engineer_ascii_animated.gif" width="50%" />
+  <img src="engineer_ascii_glitch_transparent.gif" width="100%" />
 </div>
 
 
